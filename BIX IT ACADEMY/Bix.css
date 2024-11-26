@@ -1,0 +1,348 @@
+head,body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+button{
+    cursor:pointer
+}
+
+
+
+ /* This Section Is Represent The Navigation Bar */
+
+
+   /* This Section Is Represent The Right side Introduction Box */
+.main{
+    background-image: url('https://www.bixitacademy.com/lp1/assets/img/bix-hero-bgk.webp');
+
+}
+
+.container {
+    padding-left: 100px;
+    border: hidden;
+    display:block;
+}
+
+
+.hero img{
+    float: right;
+    padding: 35 100 15 50;
+    margin-bottom: 80px;
+}
+
+   /*This Section Is Represent The Right side Introduction Box*/
+
+
+.left h1{
+    font-weight: 800;
+    font-size: 3rem;
+    color: white;
+}   
+
+.left{
+  padding: 20 30 20 100;
+  border: none;
+  
+}
+ .button1{
+    background-color: red;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    border: none;
+    padding: 16px 20px;
+    width: 35vw !important;
+    text-decoration: none;
+}
+
+    
+
+ /* This Section Is Represent The Register Form */ 
+form{
+    padding-left: 10px;
+}
+div.REG{
+    background-image: url('https://www.bixitacademy.com/lp1/assets/img/form-bk.webp');
+    border: none;
+    margin-top: 0px;
+    border:1px solid black;
+    background-color: white; 
+}
+fieldset{
+    font-size: 15px;
+    background-color: white;
+    color: black;
+    border: none;
+    margin-top: 80px;
+    padding: 20px 20px;
+    font-size: 1em;
+    font-weight: 100;
+}
+fieldset input{
+    width: 450px;
+    height: 40px;
+    padding: 10px;
+}
+
+fieldset h1{
+    text-align: center;
+}
+fieldset a{
+    color: blue;
+    font-size: 1rem;
+}
+.btn1{
+  
+    background-color: #e4322b;
+    color: white;
+    font-size: 18px;
+    border: none;
+    padding: 15px 20px;
+    width: 30vw !important;
+}
+
+
+
+
+/*This Section is Represent the Extra information About Our Company*/
+
+.sec3{
+    padding: 5 150 10 150;
+}
+.row{
+    display: inline-flex;
+}
+.leftt h3,img{
+   display: inline-flex;
+    font-size: 24px;
+    font-weight: 600;
+    padding-left: 5px;
+}
+.button2{
+    background-color: #e4322b;
+    color: white;
+    font-size: 18px;
+    border: none;
+    padding: 20px 50px;
+    width: 30vw !important;
+    text-decoration: none;
+    display: block;
+}
+
+
+
+/*This Section Is Represent The What’s Stopping You From Switching to IT? */
+
+
+.container h1{
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    padding-top: 35px;
+   
+}
+.row1{
+    display: inline-flex;
+    padding: 2 60;
+   
+}
+.part1,.part2,.part3,.part4{
+    margin: 10px;
+    background-color: white;
+    color: black;
+    padding: 10 70 ;
+    display: inline-flex;
+   
+}
+
+.row1 p{
+    color: #4d4d4d; 
+    padding-left: 15px; 
+    font-weight: 300; 
+    font-size: 20px;
+}
+
+
+.Main2  h4{
+    display: inline-flex;
+    margin-left:15px ;
+}
+
+
+/*this Section is Represent the Some Secrets*/
+
+
+.container2{
+    background-color: aliceblue;
+    padding-bottom: 30px;
+    margin-bottom: 0px; 
+
+}
+.container2 h1{
+   text-align: center;
+    font-size: 35px;
+    color: black;
+    padding-top: 35px;
+    margin: 0 50 50 50;
+    font-size: 2em;
+    font-weight: 800;
+   
+}
+.row2{
+    display: inline-flex;
+    border: hidden;
+    padding: 20 100;
+    margin: 0 16px;
+}
+.row2 h5{
+    color: #e4322b;
+    margin-top: 8px;
+    font-size: 20px;
+    text-align: center;
+
+}
+.row2 p{
+    text-align: center;
+    color:#4d4d4d ;
+    font-size: 15px;
+    font-weight: 400;
+}
+.box img{
+    padding-left: 38px;
+
+}
+.box{
+    background-color: white;
+    padding: 16 20;
+    border: 10px solid none;
+    width: 180px; 
+    border-radius: 8px;
+    margin: 0 40px 30px 40px;  
+}
+.button3{   
+    background-color: #e4322b;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    border: none;
+    padding: 16px 200px;
+    width: 35vw !important;
+    text-decoration: none; 
+    
+}
+ 
+
+
+
+   /*  this Section is Represent the Why Trust Us */
+
+ .container3{
+    background-image: url('https://www.bixitacademy.com/lp1/assets/img/social-bgk.webp');
+    color: white;
+    text-align: center;
+     margin: 0%;
+     padding: 50px 25px;
+}
+.box2 h1{
+    color: #e4322b ;
+    text-align: center;
+    font-size: 2rem;
+
+}
+.box2 h4{
+    color:#4d4d4d;
+    text-align: center;
+    font-size: 14px;
+}
+.box2{
+    background-color: white;
+    width: 150px;
+    padding: 5 24px ;
+    border-radius: 18px;
+    margin: 5 50;
+    
+}
+.Boxes{
+    display: inline-flex;
+}
+
+
+/* this Section is Represent Employee Feedback */
+
+.container4 h1{
+    font-size: 2em;
+    text-align: center;
+}
+.rows1{
+    display:flex;
+    padding: 10 50 70 50;
+}
+
+.detail1 {
+    margin-left: 150px;
+    margin-top: 5px ;
+    margin-bottom: 15px;
+    border: hidden;
+    width: 450px;
+    box-shadow: 0 0 5px rgb(140, 137, 137);
+    padding: 10px 10px;
+    border-radius: 10px;
+
+    
+}
+.detail2 {
+    margin-left: 35px;
+    margin-top: 5px ;
+    margin-bottom: 15px;
+    border: hidden;
+    width: 400px;
+    box-shadow: 0 0 5px rgb(140, 137, 137);
+    padding: 10px 10px; 
+    border-radius: 10px;
+    height: fit-content;
+   
+}
+.feedback{
+    color: #4d4d4d;
+    line-height: 28px;
+
+  
+}
+
+
+
+
+
+
+.detail .p1{
+    color:#e4322b  ;
+    font-size: 20px;
+    font-weight: 600;
+}
+.deta1i .txt{
+    font-size: 20px;
+}
+.detail img,p{
+    margin:5 25px;
+    
+}
+
+
+
+/* this Section is Represent the Footer Of the Website Which Include Address*/
+
+.container5{
+    background-color: black;
+    text-align: center;
+    padding: 15px 20px;
+}
+
+
+.logo img{
+    text-align: center !important;
+    padding: 10px 
+}
+.feet p,a{
+    color: white;
+    font-size: 1rem;
+}
